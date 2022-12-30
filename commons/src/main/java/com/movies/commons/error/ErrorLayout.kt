@@ -1,15 +1,12 @@
 package com.movies.commons.error
 
-import android.annotation.SuppressLint
 import android.content.Context
-import android.graphics.drawable.Drawable
 import android.util.AttributeSet
 import android.view.LayoutInflater
 import android.widget.Button
 import android.widget.ImageView
 import android.widget.LinearLayout
 import android.widget.TextView
-import com.google.android.material.button.MaterialButton
 import com.movies.commons.R
 
 /**

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_movies">Listado</string>
+    <string name="title_custom_error">Ha ocurrido un error</string>
+    <string name="text_buttom">Recargar</string>
+    <string name="duration_text">Duración: %1s minutos</string>
+    <string name="directors">Director: %1s</string>
+    <string name="title_splash">Movies</string>
+    <string name="developed_by">Desarrollado por Nicolas Pino</string>
+</resources>

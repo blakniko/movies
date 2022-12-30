@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/movies.iml" filepath="$PROJECT_DIR$/.idea/modules/movies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movies.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movies.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movies.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movies.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movies.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movies.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/movies.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/movies.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/movies.commons.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/movies.commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/movies.commons.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/movies.commons.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/movies.commons.main.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/movies.commons.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/movies.commons.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/movies.commons.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/movies.data.iml" filepath="$PROJECT_DIR$/.idea/modules/data/movies.data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/movies.data.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/movies.data.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/movies.data.main.iml" filepath="$PROJECT_DIR$/.idea/modules/data/movies.data.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/data/movies.data.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/data/movies.data.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/movies.domain.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/movies.domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/movies.domain.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/movies.domain.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/movies.domain.main.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/movies.domain.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/domain/movies.domain.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/domain/movies.domain.unitTest.iml" />
+    </modules>
+  </component>
+</project>
